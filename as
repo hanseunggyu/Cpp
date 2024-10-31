@@ -7,7 +7,7 @@ spec:
   predictor:
     serviceAccountName: kserve-storage-access
     pytorch:
-      storageUri: "gs://hanseunggyu-kubeflow/models/resnet18/v1/"
+      storageUri: "gs://240924_gkstmdrb-kubeflow/models/resnet18/v1/"
       resources:
         requests:
           cpu: 1
